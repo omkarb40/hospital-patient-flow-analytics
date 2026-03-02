@@ -2,7 +2,7 @@
 ### Patient Flow & Bed Occupancy Analytics — End-to-End Azure Data Engineering
 
 <p align="center">
-  <img src="docs/architecture_diagram.png" alt="Architecture Diagram" width="100%"/>
+  <img src="docs/architecture_diagram.drawio.png" alt="Architecture Diagram" width="100%"/>
 </p>
 
 <p align="center">
